@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Aawaz.com**.
 
-- 🌱 I’m currently learning **Multiple Technologies Such as Exploratory Data Analysis, Machine Learning, etc**
+- 🌱 I’m currently learning **Multiple Technologies Such as Exploratory Data Analysis, Machine Learning, etc**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajaiswal13](https://github.com/surajaiswal13)
 
