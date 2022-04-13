@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/surajjaiswal134" target="blank"><img src="https://img.shields.io/twitter/follow/surajjaiswal134?logo=twitter&style=for-the-badge" alt="surajjaiswal134" /></a> </p>
 
-- 🔭 I’m currently working on **Aawaz.com**.
+- 🔭 I’m currently working on <a href="https://www.aawaz.com" target="blank">**Aawaz.com**.</a>
 
 - 🌱 I’m currently learning **Multiple Technologies Such as Exploratory Data Analysis, Machine Learning, etc**.
 
